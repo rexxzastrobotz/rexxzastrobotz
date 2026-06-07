@@ -16,7 +16,8 @@ Saya selalu bersemangat untuk belajar hal baru, membuat proyek menarik, dan meng
 
 <h2>Hubungi Saya</h2>
 Jika Anda memiliki pertanyaan, saran, atau ingin bekerja sama dalam sebuah proyek, jangan ragu untuk menghubungi saya.
-WhatsApp: 089674097203
+WhatsApp:
+089674097203
 Email: admin@astrobot.my.id
 
 <hr>
