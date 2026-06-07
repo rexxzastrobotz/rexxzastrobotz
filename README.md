@@ -2,7 +2,7 @@
   <img src="https://cdn.nekohime.site/file/p56zweri.jpeg" width="100%">
 </div>
 
-<h1 align="center">Halo, Saya Reza 👋</h1>
+<h1 align="center">Halo, Saya Andi Muhammad Reza👋</h1>
 
 <hr>
 
