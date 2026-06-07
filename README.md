@@ -11,8 +11,9 @@ Saya adalah seorang pelajar SMA jurusan Informatika yang memiliki ketertarikan d
 Saya selalu bersemangat untuk belajar hal baru, membuat proyek menarik, dan mengembangkan solusi yang bermanfaat bagi banyak orang.
 
 
-## GitHub Stats
+##  Hubungi Saya
 
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=dark)
+Jika Anda memiliki pertanyaan, saran, atau ingin bekerja sama dalam sebuah proyek, jangan ragu untuk menghubungi saya.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&theme=dark)
+* WhatsApp: 089674097203
+* Email: [admin@astrobot.my.id](mailto:admin@astrobot.my.id)
