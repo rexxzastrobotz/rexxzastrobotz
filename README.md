@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://cdn.nekohime.site/file/p56zweri.jpeg" width="100%">
+</div>
 
-<!--
-**rexxzastrobotz/rexxzastrobotz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Halo, Saya Rey 👋
 
-Here are some ideas to get you started:
+Developer WhatsApp Bot menggunakan Baileys.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tentang Saya
+
+- 🔭 Sedang mengembangkan Astrobot
+- 🌱 Belajar Node.js
+- ⚡ Suka ngoprek fitur WhatsApp Bot
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&theme=dark)
